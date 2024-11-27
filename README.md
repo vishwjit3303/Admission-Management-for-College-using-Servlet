@@ -93,7 +93,7 @@ Contributions are welcome! Please follow these steps:
 - <img src = "output screenshots/5.png" alt = "5 image"> 
 - <img src = "output screenshots/6.png" alt = "6 image"> 
 - <img src = "output screenshots/7.png" alt = "7 image"> 
-- <img src = "output screenshots/8.png" alt = "8 image"> 
+
 
 
 ## License
