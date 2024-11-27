@@ -1,0 +1,41 @@
+body {
+    background-image: url('../img/1.png');
+            background-size: cover;
+   			background-repeat: no-repeat;
+    		background-attachment: fixed;
+    		margin: 0;
+}
+
+.navbar {
+    margin-bottom: 20px;  
+}
+
+
+.table-responsive {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+thead {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #007BFF;
+}
+
+.btn {
+    transition: 0.3s ease-in-out;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+}
